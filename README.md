@@ -15,4 +15,4 @@ A simple Bat Ball Stump Game built with HTML , CSS , JavaScript - play against t
  This game works well on both desktop and mobile devices.
 
  # Live Demo
-[play the game here] ( )
+[play the game here] (https://shweta247.github.io/Bat-Ball-Stump-game/)
